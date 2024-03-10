@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.background-container {
+  background-color: #000000;
+}
+.image-prime-logo {
+  height: 300px;
+  width: 100%;
+}
+.slider-container {
+  padding: 40px;
+  height: 95vh;
+  color: "#ffffff";
+}
+.heading-movie-text {
+  font-family: 'roboto';
+  font-weight: 600;
+  color: 'white';
+}

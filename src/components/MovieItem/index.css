@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.popup-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.pop-style {
+  background-color: transparent;
+}
+.colse-button {
+  background-color: "#ffffff";
+  color: #231f20;
+  font-size: 20px;
+}
+.trigger-button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+  align-self: flex-end;
+  background-color: transparent;
+}
+.video-style {
+  height: 80px;
+  width: 100px;
+}
+.trigger-button-container {
+  width: 60vw;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
